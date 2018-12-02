@@ -20,3 +20,5 @@
 对比结束后会在cmd 界面显示出对比结果，并在\diff_excel1.0\dist 目录下生成一个.txt文件，以时间命名
 
 如：Result_18_12_02_09_53_43.txt
+
+![image](https://github.com/xiaomifenlance/diff_excel/blob/master/Instruction/Instruction.jpg)
